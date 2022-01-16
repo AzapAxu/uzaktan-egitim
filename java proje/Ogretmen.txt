@@ -1,0 +1,30 @@
+Eyup Emre Ulku
+eyup
+eyup1
+erkek
+35
+Nesne Yonelimli Programlama
+Kazim Yildiz
+kazim
+kazim1
+erkek
+40
+Bilgisayar Programlama II
+Suat Koc
+suat
+suat1
+erkek
+30
+Ayrik Matematik
+Anil Bas
+anil
+anil1
+erkek
+35
+Insan-Bilgisayar Etkilesimi ve Gorsellik
+Ayse Yayla
+ayse
+ayse1
+kadin
+35
+Mantik Devreleri
